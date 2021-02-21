@@ -1,7 +1,7 @@
 # About this repo :
 
 This is the back-end for a hot sauces rating app which has been made with Node.js and Express.
-It was initially a project for their Junior Web Develepper training of Openclassrooms and you'll find the repository by clicking [here](https://github.com/ChristopheBouriel/So_Pekocko_Back)  
+It was initially a project for their Junior Web Develepper training of Openclassrooms and you'll find the repository by clicking [here](https://github.com/ChristopheBouriel/So_Pekocko_Back).  
 You can get more details about this project in my portfolio :  
 https://portfolio-christophe-bouriel.netlify.app  
 
